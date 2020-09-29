@@ -1,4 +1,6 @@
 # Spring Boot基础教程
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffuzhufuzhu%2Ftest3.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffuzhufuzhu%2Ftest3?ref=badge_shield)
+
 
 本项目内容为[《Spring Boot基础教程》](http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)的程序样例。
 
@@ -74,3 +76,7 @@
 ## 我的公众号
 
 <img src="http://blog.didispace.com/css/images/weixin.jpg" style="width:150px;height:150px;" />
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffuzhufuzhu%2Ftest3.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffuzhufuzhu%2Ftest3?ref=badge_large)
